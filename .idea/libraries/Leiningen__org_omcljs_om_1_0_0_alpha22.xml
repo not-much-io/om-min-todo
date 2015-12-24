@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: org.omcljs/om:1.0.0-alpha22">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/omcljs/om/1.0.0-alpha22/om-1.0.0-alpha22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
