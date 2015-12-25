@@ -13,7 +13,11 @@
                                    :priority 2}]}))
 
 (enable-console-print!)
-(declare todo todo-list new-todo-form root)
+
+(declare todo
+         todo-list
+         new-todo-form
+         root)
 
 (defui ToDo
   Object
@@ -42,17 +46,15 @@
   Object
   (render [this]
     (let [set-error     #(let [err (gdom/getElement "todo-error")]
-                          (set! (.-innerHTML err) "Invalid name!"))
+                          (set! (.-innerHTML err) "Invalid name (repeating)!"))
           clear-error   #(let [err (gdom/getElement "todo-error")]
                           (set! (.-innerHTML err) ""))
           valid-name?   (fn [title]
                           (let [names (map :title (:todos @app-state))]
                             (not (some #{title} names))))
           add-todo      (fn [title priority]
-                          (swap! app-state assoc :todos
-                                 (conj (:todos @app-state)
-                                       {:title    title
-                                        :priority priority}))
+                          (swap! app-state update-in [:todos] #(conj % {:title title
+                                                                        :priority priority}))
                           (clear-error))
           get-title     #(.-value (gdom/getElement "todo-input-title"))
           get-priority  #(js/Number (.-value (gdom/getElement "todo-input-priority")))]

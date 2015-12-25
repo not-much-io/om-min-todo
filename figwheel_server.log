@@ -1431,3 +1431,53 @@ Compiling src/om_min_todo/core.cljs
 Compiling target/figwheel_temp/dev/figwheel/connect.cljs
 notifying browser that file changed:  out/om_min_todo/core.js
 [32mSuccessfully compiled "resources/public/js/main.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.208 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.207 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.214 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.206 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.211 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.209 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.215 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.205 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.208 seconds.[0m
