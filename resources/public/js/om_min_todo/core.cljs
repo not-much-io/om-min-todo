@@ -16,8 +16,7 @@
                                    :priority 4}
                                   {:title    "Write code"
                                    :priority 2}]
-                      :errors    []
-                      :flags     [{:error-clearing false}]}))
+                      :errors    []}))
 
 ;; Forward declaration
 
@@ -30,22 +29,16 @@
 
 (defmulti read om/dispatch)
 
-(defmethod read :app-title
-  [{:keys [state]} _ _]
-  {:value (:app-title @state)})
+(defmethod read :default
+  [{:keys [state]} key _]
+  {:value (key @state)})
 
-(defmethod read :sorted-todos
-  [{:keys [state]} _ _]
-  (let [todos (:todos @state)]
-    {:value (sort-by :priority todos)}))
-
-(defmethod read :errors
-  [{:keys [state]} _ _]
-  {:value (:errors @state)})
-
-(defmethod read :flags
-  [{:keys [state]} _ _]
-  {:value (:flags @state)})
+(defmethod read :todos/title-exists?
+  [{:keys [state]} _ {:keys [title]}]
+  (let [_ (println "title:" title)
+        todos  (:todos @state)
+        titles (map :title todos)]
+    {:value (some #{title} titles)}))
 
 ;; Mutations
 
@@ -80,14 +73,6 @@
                     (fn [curr-errors]
                       (drop-last curr-errors))))})
 
-(defmethod mutate 'flags/toggle
-  [{:keys [state]} _ {:keys [flag]}]
-  {:action (fn []
-             (swap! state update-in [:flags]
-                    (fn [curr-flags]
-                      (let [to-toggle (filter #(not (nil? (flag %))) curr-flags)]
-                        ))))})
-
 ;; Parser
 
 (def parser (om/parser {:read read :mutate mutate}))
@@ -116,20 +101,31 @@
               (dom/button #js {:onClick #(om/transact! this
                                                        `[(todos/remove {:title ~title})])} "-")))))
 
-(defn todo-list [sorted-todos]
-  (dom/ol nil (map todo-item sorted-todos)))
+(defn todo-list [todos]
+  (let [sorted-todos (sort-by :priority todos)]
+    (dom/ol nil (map todo-item sorted-todos))))
 
 (defui NewToDoForm
+  static om/IQueryParams
+  (params [this]
+    {:title "test"})
   static om/IQuery
   (query [this]
-    '[(todos/add) (errors/add) (errors/remove)])
+    '[(:todos/title-exists? {:title ?title}) (todos/add) (errors/add) (errors/remove)])
   Object
   (render [this]
-    (let [valid-title?   (fn [title]
-                           (let [names (map :title (:todos @app-state))]
-                             (not (some #{title} names))))
-          get-title    #(.-value (gdom/getElement "todo-input-title"))
-          get-priority #(js/Number (.-value (gdom/getElement "todo-input-priority")))]
+    (let [get-title    #(.-value (gdom/getElement "todo-input-title"))
+          get-priority #(js/Number (.-value (gdom/getElement "todo-input-priority")))
+          add-todo     (fn []
+                         (let [title    (get-title)
+                               priority (get-priority)
+                               _ (println "props: " (om/props this))]
+                           (if (:todos/title-exists? (om/props this))
+                             (om/transact! this
+                                           `[(todos/add {:title    ~title
+                                                         :priority ~priority})])
+                             (om/transact! this
+                                           `[(errors/add {:error "Not a valid title"})]))))]
       (dom/div nil
                (dom/form #js {:id "todo-input"}
                          "Title:"
@@ -147,15 +143,7 @@
                          (dom/br nil)
                          (dom/input #js {:value   "add"
                                          :type    "button"
-                                         :onClick (fn []
-                                                    (let [title (get-title)
-                                                          priority (get-priority)]
-                                                      (if (valid-title? title)
-                                                        (om/transact! this
-                                                                      `[(todos/add {:title    ~title
-                                                                                    :priority ~priority})])
-                                                        (om/transact! this
-                                                                      `[(errors/add {:error "Not a valid title"})]))))}))))))
+                                         :onClick add-todo}))))))
 
 (defn error-msg [errors]
   (dom/ul nil
@@ -164,17 +152,22 @@
 (defui Root
   static om/IQuery
   (query [this]
-    [:app-title :sorted-todos :errors :flags '(errors/clear-last) '(flags/toggle)])
+    [:app-title :todos :errors '(errors/clear-last)])
   Object
+  (initLocalState [this]
+    {:interval-set false})
   (render [this]
-    (let [{:keys [app-title sorted-todos errors flags]} (om/props this)
-          _ (comment (if (not (:error-clearing flags))
-                       (do (js/setInterval #(om/transact! this '[(errors/clear-last)]) 5000)
-                           (om/transact! this '[(flags/toggle {:flag :error-clearing})]))))]
+    (let [{:keys [app-title todos errors]} (om/props this)
+          error-clearing #(if (not-empty (:errors (om/props this)))
+                           (om/transact! this '[(errors/clear-last)]))
+          set-interval   #(do (js/setInterval error-clearing 7000)
+                              (om/set-state! this {:interval-set true}))
+          _              (if (not (:interval-set (om/get-state this)))
+                           (set-interval))]
       (dom/div nil
                (dom/h3 nil app-title)
                (new-todo-form)
-               (todo-list sorted-todos)
+               (todo-list todos)
                (error-msg errors)))))
 
 ;; Factories
