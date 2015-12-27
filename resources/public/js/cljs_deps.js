@@ -16,6 +16,7 @@ goog.addDependency("../cljs/reader.js", ['cljs.reader'], ['goog.string', 'cljs.c
 goog.addDependency("../figwheel/client/socket.js", ['figwheel.client.socket'], ['cljs.core', 'figwheel.client.utils', 'cljs.reader']);
 goog.addDependency("../figwheel/client/heads_up.js", ['figwheel.client.heads_up'], ['goog.string', 'cljs.core', 'cljs.core.async', 'figwheel.client.socket', 'clojure.string']);
 goog.addDependency("../figwheel/client.js", ['figwheel.client'], ['goog.userAgent.product', 'goog.Uri', 'cljs.core', 'cljs.core.async', 'figwheel.client.file_reloading', 'figwheel.client.utils', 'cljs.repl', 'figwheel.client.heads_up', 'figwheel.client.socket', 'clojure.string']);
+goog.addDependency("../material.inc.js", ['cljsjs.material'], []);
 goog.addDependency("../react.inc.js", ['cljsjs.react'], []);
 goog.addDependency("../react-dom.inc.js", ['cljsjs.react.dom'], ['cljsjs.react']);
 goog.addDependency("../om/util.js", ['om.util'], ['cljs.core']);
@@ -39,5 +40,9 @@ goog.addDependency("../com/cognitect/transit.js", ['com.cognitect.transit'], ['c
 goog.addDependency("../cognitect/transit.js", ['cognitect.transit'], ['com.cognitect.transit.eq', 'cljs.core', 'com.cognitect.transit.types', 'com.cognitect.transit', 'goog.math.Long']);
 goog.addDependency("../om/transit.js", ['om.transit'], ['cljs.core', 'cognitect.transit', 'om.tempid', 'com.cognitect.transit']);
 goog.addDependency("../om/next.js", ['om.next'], ['om.next.cache', 'clojure.zip', 'om.next.impl.parser', 'goog.string', 'goog.debug.Console', 'cljs.core', 'goog.object', 'goog.log', 'om.next.protocols', 'om.tempid', 'clojure.walk', 'om.transit', 'om.util']);
-goog.addDependency("../om_min_todo/core.js", ['om_min_todo.core'], ['goog.dom', 'cljs.core', 'om.dom', 'om.next']);
+goog.addDependency("../om_min_todo/components/landing_dom.js", ['om_min_todo.components.landing_dom'], ['goog.dom', 'cljsjs.material', 'cljs.core', 'om.dom', 'om.next']);
+goog.addDependency("../om_min_todo/components/landing.js", ['om_min_todo.components.landing'], ['goog.dom', 'cljsjs.material', 'cljs.core', 'om.dom', 'om_min_todo.components.landing_dom', 'om.next']);
+goog.addDependency("../om_min_todo/parser.js", ['om_min_todo.parser'], ['cljs.core', 'om.next']);
+goog.addDependency("../om_min_todo/components/app.js", ['om_min_todo.components.app'], ['goog.dom', 'om_min_todo.components.landing', 'cljs.core', 'om_min_todo.parser', 'om.next']);
+goog.addDependency("../om_min_todo/core.js", ['om_min_todo.core'], ['om_min_todo.components.app', 'cljsjs.material', 'cljs.core']);
 goog.addDependency("../figwheel/connect.js", ['figwheel.connect'], ['cljs.core', 'figwheel.client', 'figwheel.client.utils', 'om_min_todo.core']);
