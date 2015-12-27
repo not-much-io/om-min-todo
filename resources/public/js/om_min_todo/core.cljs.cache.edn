@@ -1,2 +1,2 @@
 ;; Analyzed by ClojureScript 1.7.170
-{:name om-min-todo.core, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires {app om-min-todo.components.app, om-min-todo.components.app om-min-todo.components.app, cljsjs.material cljsjs.material}, :imports nil}
+{:name om-min-todo.core, :doc nil, :excludes #{}, :use-macros nil, :require-macros nil, :uses nil, :requires {app om-min-todo.components.app, om-min-todo.components.app om-min-todo.components.app, util om-min-todo.util, om-min-todo.util om-min-todo.util, cljsjs.material cljsjs.material}, :imports nil}

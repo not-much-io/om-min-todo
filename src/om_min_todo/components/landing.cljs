@@ -5,11 +5,6 @@
             [om-min-todo.components.landing-dom :as d]
             [cljsjs.material]))
 
-;;Forward declare Om factories
-
-(declare todo-item
-         new-todo-form)
-
 ;;Om UI components
 
 (defui NewToDoForm
@@ -59,6 +54,7 @@
           sorted-todos (sort-by :priority todos)]
       (dom/div #js {:className "mdl-layout mdl-js-layout mdl-layout--fixed-header"}
                (d/dom-header app-title)
-               (dom/main {:className "mdl-layout__content"}
-                         (new-todo-form {:todos todos})
-                         (todo-list     {:sorted-todos sorted-todos}))))))
+               (dom/main #js {:className "mdl-layout__content"}
+                         (dom/div #js {:className "page-content"}
+                                  (new-todo-form {:todos todos})
+                                  (todo-list {:sorted-todos sorted-todos})))))))

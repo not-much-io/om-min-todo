@@ -5753,3 +5753,2448 @@ Compiling target/figwheel_temp/dev/figwheel/connect.cljs
 Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
 notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
 [32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.277 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs, line 43, column 57
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.066 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Map literal must contain an even number of forms on file /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs, line 55, column 60
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.066 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.235 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.241 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.287 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/util.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/util.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/util.cljs
+notifying browser that file changed:  out/om_min_todo/util.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.098 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.105 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.265 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (2) passed to: dom/div at line 63 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs on file /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs, line 63, column 26
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.173 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.223 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.234 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.23 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.225 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.244 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/util.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/util.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.108 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.244 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/util.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+notifying browser that file changed:  out/om_min_todo/util.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/components/mdl_helpers.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/components/mdl_helpers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.104 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/components/mdl_helpers.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/components/mdl_helpers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.113 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/components/mdl_helpers.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "dom/div" should be a vector at line 5 src/om_min_todo/components/mdl_helpers.cljs on file src/om_min_todo/components/mdl_helpers.cljs, line 5, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.069 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/components/mdl_helpers.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Parameter declaration "dom/div" should be a vector at line 5 src/om_min_todo/components/mdl_helpers.cljs on file src/om_min_todo/components/mdl_helpers.cljs, line 5, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.074 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/components/mdl_helpers.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl_helpers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.103 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/components/mdl_helpers.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl_helpers.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.109 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.242 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.244 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Wrong number of args (3) passed to om-min-todo.components.mdl/grid at line 12 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.349 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.292 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.268 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/fixed-fab at line 59 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.254 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.277 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Wrong number of args (1) passed to om-min-todo.components.mdl/cell at line 18 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Wrong number of args (1) passed to om-min-todo.components.mdl/cell at line 18 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.28 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.256 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.268 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.267 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Wrong number of args (3) passed to om-min-todo.components.mdl/center-grid at line 38 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/empty-row at line 40 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/empty-row at line 40 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: EOF while reading, starting at line 15 and column 1 on file /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs, line 33, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.059 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: EOF while reading, starting at line 15 and column 1 on file /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs, line 33, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.059 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: EOF while reading, starting at line 15 and column 1 on file /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs, line 32, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.06 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.261 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.254 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.263 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.271 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.265 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.268 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/empty-row at line 39 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.291 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Wrong number of args (3) passed to om-min-todo.components.mdl/center-grid at line 38 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/el at line 13 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/dom-el at line 23 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.293 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Wrong number of args (2) passed to: core/defn--17864 at line 36 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs on file /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs, line 36, column 1
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.065 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.286 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Wrong number of args (1) passed to om-min-todo.components.mdl/table at line 26 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Wrong number of args (1) passed to om-min-todo.components.mdl/center-grid at line 26 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.288 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Wrong number of args (1) passed to om-min-todo.components.mdl/center-grid at line 26 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Wrong number of args (1) passed to om-min-todo.components.mdl/center-grid at line 26 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.264 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Wrong number of args (2) passed to om-min-todo.components.mdl/center-grid at line 26 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Wrong number of args (2) passed to om-min-todo.components.mdl/center-grid at line 56 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.306 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/shadow-dp at line 11 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/shadow-dp at line 12 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/z-height at line 30 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.316 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Use of undeclared Var om-min-todo.components.mdl/z-height at line 30 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.29 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.271 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Wrong number of args (3) passed to om-min-todo.components.mdl/grid at line 26 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.295 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+WARNING: Wrong number of args (3) passed to om-min-todo.components.mdl/grid at line 26 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.298 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.271 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.268 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.265 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.277 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.27 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.292 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.284 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.294 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.281 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.296 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.284 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.289 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.284 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.267 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.275 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.254 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.285 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.256 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.284 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.283 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.272 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.271 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.276 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.288 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.273 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.299 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/mdl.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.278 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.253 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.258 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.252 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Unmatched delimiter ) on file /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs, line 20, column 61
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.065 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+WARNING: Use of undeclared Var om-min-todo.components.landing-dom/div at line 20 /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.279 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.25 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.259 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.247 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.255 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.251 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.249 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/components/mdl.cljs
+Compiling src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+notifying browser that file changed:  out/om_min_todo/components/landing_dom.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/om_min_todo/components/mdl.cljs
+Compiling src/om_min_todo/components/landing_dom.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/om_min_todo/components/mdl.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.269 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.222 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/components/landing.cljs
+Compiling src/om_min_todo/app.cljs
+Compiling /home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for file:/home/not-much-io/Projects/om-min-todo/src/om_min_todo/core.cljs
+notifying browser that file changed:  out/om_min_todo/components/landing.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.23 seconds.[0m
